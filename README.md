@@ -11,7 +11,7 @@ With this downloader you can download at the most higher quality that is availab
 
 1st option : You can view info about a YouTube link and the program will output a lot of information such as: Video Quality, Audio Quality, Resolution and ecc..
 
-2nd option : Fownload from YouTube link in full quality
+2nd option : Download from YouTube link in full quality
 
 3rd option : Download audio from YouTube links in full quality this option is generally used to download music
 
