@@ -5,7 +5,7 @@
 
 
 
-With this downloader you can download at the most higher quality that is available on Youtube.
+With this downloader you can download at the highest quality that is available on Youtube.
 
 **If you haven't installed ffmpeg on your machine you need to choose the 5th option when you open the program for the first time.**
 
