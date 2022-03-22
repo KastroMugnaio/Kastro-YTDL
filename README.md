@@ -27,3 +27,4 @@ With this downloader you can download at the highest quality that is available o
 
 TO DO LIST :
 - Taking Spotify metadata and merge with downloaded mp3
+- Create GUI
