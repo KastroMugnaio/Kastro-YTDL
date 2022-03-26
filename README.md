@@ -1,5 +1,5 @@
 # Kastro-YTDL
-### Made by [kastro](t.me/kastromugnaio "kastro") with ❤
+### Made by [kastro](https:/t.me/kastromugnaio "kastro") with ❤
 
 ------------
 
