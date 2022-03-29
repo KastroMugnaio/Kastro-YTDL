@@ -17,7 +17,7 @@ With this downloader you can download at the highest quality that is available o
 
 4th Option : Download Audio/Video via searching directly on YouTube
 
-5th Option : Install [FFMPEG](ffmpeg.org "FFMPEG")
+5th Option : Install [FFMPEG](https://github.com/FFmpeg/FFmpeg "FFMPEG")
 
 
 *This Program is made by using [yt-dlp](https://github.com/yt-dlp/yt-dlp "yt-dlp")*
